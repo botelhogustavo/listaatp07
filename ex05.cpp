@@ -1,8 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-#include <stdio.h>
-
 void inverter(int a[], int t) {
     int *inicio = a;        // aponta para o primeiro elemento
     int *fim = a + t - 1;   // aponta para o ultimo elemento
